@@ -2,6 +2,19 @@
 
 Welcome to my digital playground! I’m a Full-Stack Developer with a love for crafting exceptional user experiences. My expertise shines brightest in the frontend realm, but I’m always excited to dive into the full-stack ocean.
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/khushi-shrivastav-b82a42212/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 ## 🌟 About Me
 
 - 🌍 **Location**: Kolkata
@@ -19,23 +32,15 @@ Welcome to my digital playground! I’m a Full-Stack Developer with a love for c
 
 Explore some of my recent creations:
 
-- [**Project 1**](link-to-project): An innovative project that [briefly describe its impact or feature]. Built with [Technologies].
-- [**Project 2**](link-to-project): A solution for [describe problem solved or functionality]. Powered by [Technologies].
-- [**Project 3**](link-to-project): A [describe type] application that [highlight key feature]. Utilizing [Technologies].
+- [**Samaira Fashion**](https://github.com/khush-ee/samairafashion): A freelance project of an Ecommerce app built using MERN stack.
+- [**Newsverse**](https://github.com/khush-ee/newsverse): A react app which unleashes the true power of News API to deliver a well written product.
 
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
 
-## 📫 Let's Connect!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush-ee)](https://github.com/anuraghazra/github-readme-stats)
 
-I love meeting new people and collaborating on exciting projects. You can find me at:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Website/Portfolio](https://your-portfolio.com)
-
-Feel free to browse my repositories and reach out if you want to chat about tech, projects, or just to say hi!
 
 ## 🎨 Fun Tidbits
 
