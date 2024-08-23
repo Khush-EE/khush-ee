@@ -9,9 +9,6 @@ Welcome to my digital playground! I’m a Full-Stack Developer with a love for c
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
@@ -34,10 +31,6 @@ Explore some of my recent creations:
 
 - [**Samaira Fashion**](https://github.com/khush-ee/samairafashion): A freelance project of an Ecommerce app built using MERN stack.
 - [**Newsverse**](https://github.com/khush-ee/newsverse): A react app which unleashes the true power of News API to deliver a well written product.
-
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush-ee)](https://github.com/anuraghazra/github-readme-stats)
 
